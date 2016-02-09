@@ -11,6 +11,7 @@ _List your exercises here._
 
 #### Projects
 
+_List your projects here._
 
 ### [Section 2: Brush up on Algebra to Improve your Algorithmic Mind](Section-02-Brush-up-on-Algebra-to-Improve-your-Algorithmic-Mind)
 
