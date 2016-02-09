@@ -21,6 +21,7 @@ _List your exercises here._
 
 #### Projects
 
+_List your projects here._
 
 ### [Section 3: Solving Mathematical Problems Without Anxiety](Section-03-Solving-Mathematical-Problems-Without-Anxiety)
 
@@ -29,3 +30,5 @@ _List your exercises here._
 _List your exercises here._
 
 #### Projects
+
+_List your projects here._
