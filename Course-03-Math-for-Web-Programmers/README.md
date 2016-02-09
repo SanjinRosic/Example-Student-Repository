@@ -7,6 +7,8 @@
 
 #### Exercises
 
+_List your exercises here._
+
 #### Projects
 
 
@@ -14,11 +16,15 @@
 
 #### Exercises
 
+_List your exercises here._
+
 #### Projects
 
 
 ### [Section 3: Solving Mathematical Problems Without Anxiety](Section-03-Solving-Mathematical-Problems-Without-Anxiety)
 
 #### Exercises
+
+_List your exercises here._
 
 #### Projects
