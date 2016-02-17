@@ -1,6 +1,6 @@
-#### Provide complete explanations and examples of each of the flag options that can be passed to the `git log` `--pretty` flag.
+#### Explain the usage of the `git reset` command. Discuss scenarios where reseting a file or repository to a previous commit would be appropriate.
 
-# Title of Article here
+# 'git reset' Explained
 
 *Introductory paragraph*
 
@@ -10,6 +10,6 @@
 
 
 
-Arnold Hart
-1/22/2016
-Career Path 1: Junior JavaScript Developer
+Sanjin Rosic
+2/15/2016
+Career Path 2: UI/UX Developer
